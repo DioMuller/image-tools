@@ -21,3 +21,11 @@ Generates mdpi, hdpi, xhdpi, xxhdpi and xxxhdpi (Android) and @1x-@4x (iOS) imag
 ### invert.sh
 
 Inverts the images colors.
+
+### enlarge.sh
+
+Doubles the images size.
+
+### sharpen.sh
+
+Sharpens the images.
