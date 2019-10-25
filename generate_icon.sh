@@ -26,7 +26,7 @@ do
 	
 	echo "- Creating Android Images"
 	echo "-- xxxhdpi"
-	convert $file -resize 192x192 Output/Android/mipmap-xxhdpi/$filename
+	convert $file -resize 192x192 Output/Android/mipmap-xxxhdpi/$filename
 	echo "-- xxhdpi"
 	convert $file -resize 144x144 Output/Android/mipmap-xxhdpi/$filename
 	echo "-- xhdpi"
